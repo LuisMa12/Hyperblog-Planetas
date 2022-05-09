@@ -1,3 +1,12 @@
+body{
+  background-color: aquamarine;
+}
+
+#logo{
+  width: 80px;
+  vertical-align: middle;
+}
+
 img{
 display:block;
 margin:auto;
