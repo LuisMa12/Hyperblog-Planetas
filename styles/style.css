@@ -1,0 +1,28 @@
+body{
+  background-color: aquamarine;
+}
+
+#logo{
+  width: 80px;
+  vertical-align: middle;
+}
+
+img{
+display:block;
+margin:auto;
+}
+
+h1, h2 {
+  color: rgb(41, 128, 12);
+  text-align:center
+}
+
+h2 {
+  text-align:center
+}
+
+
+#footer {
+  color: rgb(237, 23, 219);
+  text-align:center
+}
